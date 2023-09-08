@@ -127,7 +127,7 @@ In the screenshot below:
 
 ## Final Dashboard
 
-The dashboard can be found [here](https://lookerstudio.google.com/s/lrQNEgBjkaE)
+The dashboard can be found [here](https://lookerstudio.google.com/s/l457aOvTxfw)
 
 ![image](https://user-images.githubusercontent.com/88390708/230462032-800490d8-2abb-4c58-9cf6-6bca379b8551.png)
 ![image](https://user-images.githubusercontent.com/88390708/230462122-a92fc979-6542-463a-886d-68e52ede2f6a.png)
