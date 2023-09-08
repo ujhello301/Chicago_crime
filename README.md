@@ -1,11 +1,4 @@
 # Chicago_crime
-# DataTalksClub's Data Engineering Zoomcamp Project
-
-## Chicago City Crime Analysis
-This is the final project as a part of the [Data Engineering Zoomcamp course](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/README.md). The goals of this project are to apply everything we learned in this course and build an end-to-end data pipeline that will help to organize data processing in a batch manner and to build analytical dashboard that will make it easy to discern the trends and digest the insights 
-
-
-The period of the data processing will cover from 2001 to 2022.
 
 ## Problem Statement
 
